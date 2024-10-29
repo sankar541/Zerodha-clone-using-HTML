@@ -29,5 +29,7 @@ This project is a basic HTML-only replica of the Zerodha website, created on my 
     <h3 style="color: azure;"> Sign up for Free </h3>
    </button>
   </a>
-    </body>
+ 
  </center>
+    </body>
+    </html>
